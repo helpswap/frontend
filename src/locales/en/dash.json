@@ -1,0 +1,28 @@
+{
+    "title": "Dashboard",
+    "buy": "Buy",
+    "comming-soon": "Comming soon!",
+    "id": "id",
+    "zone-1-name": "EarnChain n3",
+    "zone-2-name": "EarnChain n4",
+    "zone-3-name": "EarnChain n-Infinity",
+    "aff-link": "Affiliate link",
+    "copy": "Copy",
+    "ur-wallet-address": "Your wallet address",
+    "upgrade-success": "Upgrade successfull",
+    "upgrade-cost-low": "Your BUSD balance is too low to upgrade to this slot",
+    "upgrade-approve-text": "You need to approve EarnChain to use some of your BUSD to upgrade to this slot",
+    "upgrade-disapprove-error": "Sorry. You can only upgrade by approving BUSD",
+
+    "upgrade-confirm-title": "EarnChain slot upgrade wallet confirmation",
+    "upgrade-confirm-upgrade-text": "You need to confirm within your wallet that you want to buy a new slot on EarnChain",
+    "upgrade-confirm-upgrade-error": "Sorry. You can only upgrade by confirming upgrade transaction from your wallet",
+
+    "upgrade-in-progress": "Upgrade in progress...",
+    "upgrade-in-progress-confirm": "Upgrade in progress... Confirm upgrade in wallet",
+    "verifying-upgrade": "Verifying upgrade on the blockchain...",
+    "switch-detect-title": "Account switch detected.",
+    "switch-detect-desc": "Do you want to login with your detected account?: ",
+    "unmatch-title": "Login with your wallet ID",
+    "unmatch-desc": "The account ID you're upgrading on does not match your wallet ID. Login with your wallet ID: "
+}

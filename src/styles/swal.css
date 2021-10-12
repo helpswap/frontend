@@ -1,0 +1,9 @@
+.swal2-popup {
+    color: #555 !important;;
+    padding-left: 15px !important;
+    padding-right: 15px !important;;
+}
+.swal2-confirm {
+    background-color: transparent;
+    background-image: linear-gradient(180deg,#F8D12F 0%,#F0B90B 100%) !important;
+}

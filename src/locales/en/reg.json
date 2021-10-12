@@ -1,0 +1,28 @@
+{
+    "reg-title": "Join the finanancial freedom movement with just 10 dollar",
+    "reg-title-short": "Join with just 10 BUSD",
+    "upline": "Upline",
+    "register": "Register",
+    "signin-instead-msg": "Already have an account? <0>Sign in instead >>></0>",
+    "upline-confirmation-title": "Upline Confirmation",
+    "upline-confirmation-text": "Your Current Upline ID",
+    "no-change-upline": "No, I want to change it",
+    "enter-upline-id": "Enter upline ID",
+    "pls-enter-upline-id": "Please enter upline ID",
+    "pls-enter-valid-upline-id": "Please enter valid upline ID",
+    "checking-reg-status": "Checking registration status...",
+    "checking-upline-id": "Checking upline ID...",
+    
+    "reg-approve-text": "You need to approve EarnChain to use 10 BUSD for registration",
+    "reg-disapprove-error": "Sorry. You can only register by approving BUSD",
+    
+    "reg-confirm-reg-error": "Sorry. You can only register by confirming registration transaction from your wallet",
+    
+    "reg-in-progress": "Registration in progress...",
+    "reg-in-progress-confirm": "Registration in progress... Confirm registration in wallet",
+    "verifying-reg": "Verifying registration on the blockchain...",
+    "reg-cost-low": "Your BUSD balance is low. 10 BUSD is needed for registration",
+    "already-reg": "You've already registered. Sign in now.",
+    "yes-sign-in": "Yes, Sign in"
+    
+}

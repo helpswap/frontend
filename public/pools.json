@@ -1,0 +1,22 @@
+{
+    "tokenA": "https://testnet.bscscan.com/address/0x78867BbEeF44f2326bF8DDd1941a4439382EF2A7",
+    "tokenB": "https://testnet.bscscan.com/address/0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
+    "poolLinks": [
+        {
+            "name": "CUSTOM_TEST",
+            "link": "https://testnet.bscscan.com/address/0xe0e92035077c39594793e61802a350347c320cf2#readContract"
+        },
+        {
+            "name": "PANCAKE_TEST",
+            "link": "https://testnet.bscscan.com/address/0x85EcDcdd01EbE0BfD0Aba74B81Ca6d7F4A53582b#readContract"
+        },
+        {
+            "name": "PANCAKE_MAIN_V2",
+            "link": "https://testnet.bscscan.com/address/0xE5e569ba2b34476A004A192C44690D5e90141675#readContract"
+        },
+        {
+            "name": "PANCAKE_MAIN_V1",
+            "link": "https://testnet.bscscan.com/address/0xa1363723F4B31E06a760eC44E5Dc0e291ADf0E7b#readContract"
+        }
+    ]
+}
